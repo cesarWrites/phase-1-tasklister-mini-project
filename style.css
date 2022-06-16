@@ -35,3 +35,15 @@ button {
   border-radius: 5px;
   box-shadow: 2px 5px 5px #333;
 }
+
+.btn-style{
+  background-color: #333;
+  color: white;
+  font-size: 20px;
+  font-style: italic;
+  margin-left: 5px;
+}
+.form-style{
+  font-size: 20px;
+  color: black;
+}
